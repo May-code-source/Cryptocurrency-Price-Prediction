@@ -36,8 +36,8 @@ Historical daily price data from Binance API for the top 20 cryptocurrencies fro
 - Correlation Analysis 
 - Feature Engineering
 - Normalization  
-- LSTM, XGBoost, Random Forest for predictive modeling 
-- Streamlit for GUI
+- Decision Tree, XGBoost, Random Forest for predictive modeling 
+- Streamlit for Graphical User Interface
 
 ### Exploratory Data Analysis:
 Data was examined for patterns, trends, and outliers using statistical analysis and visualizations
