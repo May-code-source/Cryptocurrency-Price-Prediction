@@ -45,6 +45,9 @@ Data was examined for patterns, trends, and outliers using statistical analysis 
 ### Model Evaluation:
 Performance metrics, including Mean Absolute Error (MAE), Mean Absolute Percentage Error (MAPE), Root Mean Squared Error (RMSE), and R-squared (R2), were calculated for model evaluation.
 
+![Picture1](https://github.com/May-code-source/Cryptocurrency-Price-Prediction/assets/115402970/bf47e91f-fba3-433c-b8d8-2311785011da)
+
+
 ## Insights
 
 - Most coins exhibited positive skewness in their price distribution. Positive skewness indicates that the majority of cryptocurrencies tend to have prices skewed towards higher values, this suggests potential for sharp upward movements in prices. This indicates investors may benefit from long positions.
