@@ -2,16 +2,11 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import plotly.graph_objects as go
-from sklearn import preprocessing
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import r2_score, mean_absolute_error, mean_squared_error
-import streamlit as st
 from joblib import load
 from data_fetcher import Dataset
-import pandas as pd
-import matplotlib.pyplot as plt
 from datetime import datetime
-import numpy as np
 
 # Load the saved model and scaler
 regressor = load('joblib_model1.joblib')
